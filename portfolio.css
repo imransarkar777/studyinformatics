@@ -1,0 +1,102 @@
+.portfolio {
+    text-align: center;
+    align-items: center;
+    padding-top: 70px;
+}
+
+.portfolio_header {
+    font-size: 30px;
+    color: black !important;
+    padding: 40px;
+    margin-bottom: 0;
+}
+
+.portfolio_def {
+    padding: 30px 150px 30px 150px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.portfolio_def_p {
+    text-align: center;
+
+}
+
+.portfolio_def_li {
+    font-size: medium;
+    padding: 30px 150px;
+    text-align: left;
+}
+
+
+
+
+/* upcoming projects */
+
+.upcomingProjects {
+
+    text-align: center;
+    align-items: center;
+    padding-top: 70px;
+}
+
+.upcomingProjects_header{
+    
+    font-size: 30px;
+    color: black !important;
+    padding: 40px;
+    margin-bottom: 0;
+}
+
+.upcomingProjects_def {
+    
+    padding: 30px 150px 30px 150px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.upcomingProjects_def_p {
+    text-align: center;
+}
+
+.upcomingProjects_def_li {
+    font-size: medium;
+    padding: 30px 150px;
+    text-align: left;
+}
+
+
+/* .education_ERP */
+
+.education_ERP {
+    text-align: center;
+    align-items: center;
+    padding-top: 70px;
+}
+
+.education_ERP_head {
+
+    font-size: 30px;
+    color: black !important;
+    padding: 40px;
+    margin-bottom: 0;
+}
+
+.education_ERP_def {
+    text-align: left;
+    font-size: medium;
+    padding: 30px 150px 30px 150px;
+}
+
+.education_ERP_def_p {
+
+    text-align: center;
+
+}
+
+.education_ERP_def_li {
+
+    font-size: medium;
+    padding: 30px 150px !important;
+    text-align: left;
+}

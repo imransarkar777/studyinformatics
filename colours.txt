@@ -1,0 +1,27 @@
+
+
+study informatics logo colours
+
+1. #42210B    darkest
+
+
+2. #EEF1F8      light
+
+3. #0069D9      medium
+
+
+
+dark green - #7A0078
+
+
+
+
+dark brown - #42210B
+
+
+
+
+
+button normal colour : #007bff
+
+purple colour : #7A0078

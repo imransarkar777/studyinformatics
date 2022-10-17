@@ -1,0 +1,103 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.aboutMe{
+    background-image: url(/img/fluid.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 92vh;
+    
+    padding: 5vh;
+
+}
+
+.headingDiv{
+    text-align: center;
+    height: fit-content;
+}
+
+.text{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text .left{
+    width: 30%;
+    display: block;
+    margin: 4vw;
+}
+
+.text .left img{
+    
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.text .right{
+    display: block;
+    width: 50%;
+
+    font-size: 18px !important;
+
+    text-align: justify;
+    border-radius: 5px;
+
+    background-color: #47fafdd9;
+    color: rgb(2, 17, 31);
+
+    line-height: 2vw;
+    margin: 4vw;
+    padding: 1vw;
+}
+
+.bh{
+/*    border: 1px solid maroon; */
+    width: 25vh;
+    height: 25vh;
+}
+
+.bh img{
+    object-fit: scale-down;
+
+}
+
+
+/* offer section styling */
+
+.offer{
+    text-align: center;
+    align-items: center;
+    padding-top: 70px;
+}
+
+/* what is  */
+.offer_whatis_head{
+    font-size: 24px;
+    color: black !important;
+    padding: 40px;
+    margin-bottom: 0;
+}
+.offer_whatis_def{
+    padding: 30px 150px 30px 150px;
+    font-size: 18px;
+}
+
+/* our erp software */
+.offer_ourERP_head{
+    font-size: 24px;
+    color: black !important;
+    padding: 40px;
+    margin-bottom: 0;
+}
+.offer_ourERP_def{
+    padding: 30px 150px 30px 150px;
+    font-size: 18px;
+}
